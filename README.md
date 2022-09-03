@@ -1,2 +1,2 @@
 # coursera-test
-Coursera test Repository
+Coursera test Repository by Mirza Abdul Qayyum
